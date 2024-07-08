@@ -1,0 +1,14 @@
+C:\Balta\EditorTexto\TextEditor\bin\Debug\net8.0\TextEditor.exe
+C:\Balta\EditorTexto\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+C:\Balta\EditorTexto\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+C:\Balta\EditorTexto\TextEditor\bin\Debug\net8.0\TextEditor.dll
+C:\Balta\EditorTexto\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+C:\Balta\EditorTexto\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\EditorTexto\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\Balta\EditorTexto\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\Balta\EditorTexto\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Balta\EditorTexto\TextEditor\obj\Debug\net8.0\TextEditor.dll
+C:\Balta\EditorTexto\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+C:\Balta\EditorTexto\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+C:\Balta\EditorTexto\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+C:\Balta\EditorTexto\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll

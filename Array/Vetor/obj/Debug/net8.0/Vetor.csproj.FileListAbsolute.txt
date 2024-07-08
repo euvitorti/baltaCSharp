@@ -1,0 +1,14 @@
+C:\Balta\Array\Vetor\bin\Debug\net8.0\Vetor.exe
+C:\Balta\Array\Vetor\bin\Debug\net8.0\Vetor.deps.json
+C:\Balta\Array\Vetor\bin\Debug\net8.0\Vetor.runtimeconfig.json
+C:\Balta\Array\Vetor\bin\Debug\net8.0\Vetor.dll
+C:\Balta\Array\Vetor\bin\Debug\net8.0\Vetor.pdb
+C:\Balta\Array\Vetor\obj\Debug\net8.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\Array\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfoInputs.cache
+C:\Balta\Array\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfo.cs
+C:\Balta\Array\Vetor\obj\Debug\net8.0\Vetor.csproj.CoreCompileInputs.cache
+C:\Balta\Array\Vetor\obj\Debug\net8.0\Vetor.dll
+C:\Balta\Array\Vetor\obj\Debug\net8.0\refint\Vetor.dll
+C:\Balta\Array\Vetor\obj\Debug\net8.0\Vetor.pdb
+C:\Balta\Array\Vetor\obj\Debug\net8.0\Vetor.genruntimeconfig.cache
+C:\Balta\Array\Vetor\obj\Debug\net8.0\ref\Vetor.dll

@@ -1,0 +1,14 @@
+C:\Balta\Caracteres\Caractere\bin\Debug\net8.0\Caractere.exe
+C:\Balta\Caracteres\Caractere\bin\Debug\net8.0\Caractere.deps.json
+C:\Balta\Caracteres\Caractere\bin\Debug\net8.0\Caractere.runtimeconfig.json
+C:\Balta\Caracteres\Caractere\bin\Debug\net8.0\Caractere.dll
+C:\Balta\Caracteres\Caractere\bin\Debug\net8.0\Caractere.pdb
+C:\Balta\Caracteres\Caractere\obj\Debug\net8.0\Caractere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\Caracteres\Caractere\obj\Debug\net8.0\Caractere.AssemblyInfoInputs.cache
+C:\Balta\Caracteres\Caractere\obj\Debug\net8.0\Caractere.AssemblyInfo.cs
+C:\Balta\Caracteres\Caractere\obj\Debug\net8.0\Caractere.csproj.CoreCompileInputs.cache
+C:\Balta\Caracteres\Caractere\obj\Debug\net8.0\Caractere.dll
+C:\Balta\Caracteres\Caractere\obj\Debug\net8.0\refint\Caractere.dll
+C:\Balta\Caracteres\Caractere\obj\Debug\net8.0\Caractere.pdb
+C:\Balta\Caracteres\Caractere\obj\Debug\net8.0\Caractere.genruntimeconfig.cache
+C:\Balta\Caracteres\Caractere\obj\Debug\net8.0\ref\Caractere.dll

@@ -1,0 +1,14 @@
+C:\Balta\Cronometro\StopWatch\bin\Debug\net8.0\StopWatch.exe
+C:\Balta\Cronometro\StopWatch\bin\Debug\net8.0\StopWatch.deps.json
+C:\Balta\Cronometro\StopWatch\bin\Debug\net8.0\StopWatch.runtimeconfig.json
+C:\Balta\Cronometro\StopWatch\bin\Debug\net8.0\StopWatch.dll
+C:\Balta\Cronometro\StopWatch\bin\Debug\net8.0\StopWatch.pdb
+C:\Balta\Cronometro\StopWatch\obj\Debug\net8.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\Cronometro\StopWatch\obj\Debug\net8.0\StopWatch.AssemblyInfoInputs.cache
+C:\Balta\Cronometro\StopWatch\obj\Debug\net8.0\StopWatch.AssemblyInfo.cs
+C:\Balta\Cronometro\StopWatch\obj\Debug\net8.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Balta\Cronometro\StopWatch\obj\Debug\net8.0\StopWatch.dll
+C:\Balta\Cronometro\StopWatch\obj\Debug\net8.0\refint\StopWatch.dll
+C:\Balta\Cronometro\StopWatch\obj\Debug\net8.0\StopWatch.pdb
+C:\Balta\Cronometro\StopWatch\obj\Debug\net8.0\StopWatch.genruntimeconfig.cache
+C:\Balta\Cronometro\StopWatch\obj\Debug\net8.0\ref\StopWatch.dll
